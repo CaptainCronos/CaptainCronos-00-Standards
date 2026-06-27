@@ -1,0 +1,36 @@
+# Editor backups
+*~
+*.swp
+*.swo
+.#*
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Environment
+.env
+
+# Keys
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# Wallets
+wallet.dat
+
+# Bitcoin
+bitcoin.conf.local
